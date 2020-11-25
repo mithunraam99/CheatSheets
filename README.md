@@ -1,6 +1,6 @@
 # CheatSheets
 
-- Web development CheatSheets
+- Web Development CheatSheets
       - HTML
       - CSS
       - JavaScript
